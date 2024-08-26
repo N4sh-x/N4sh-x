@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm @L0rr <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNwc2FiaXo1NnJrYnJlZGxlcGU4czM1OXcwYmhlcjIxNjVtYXJ6NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="200"/>
     <div id="badges">
       <img src="https://komarev.com/ghpvc/?username=N4sh-x&style=flat-square&color=blue" alt=""/>
     </div>
