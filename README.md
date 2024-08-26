@@ -7,7 +7,7 @@ $ Pentester | CTF Addict | Python Scripter | Coffee Enthusiast
 $ _
 ```
 
-![](https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif)
+![]([https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXppMThpdWdlZmdyaGEwYzhlZzdoNm1mYnNnamY2anRid29rZmczMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QbumCX9HFFDQA/giphy.gif))
 
 ---
 
