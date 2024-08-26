@@ -3,9 +3,7 @@
 
 ```shell
 $ whoami
-```
-```shell
-Pentester | CTF Addict | Python Scripter | Coffee Enthusiast
+$ Pentester | CTF Addict | Python Scripter | Coffee Enthusiast
 ```
 
 <div align="center">
