@@ -45,7 +45,7 @@ I'm always up for a chat with fellow hackers and security enthusiasts. Whether i
   <br/>
   <a href="https://github.com/N4sh-x" target="_blank"><img src="https://img.shields.io/badge/GitHub-N4sh--x-blue?style=flat-square&logo=github"></a>
 </div>
-
+<br/>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
