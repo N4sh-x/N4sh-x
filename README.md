@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm @L0rr <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<!--
-**N4sh-x/N4sh-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200"/>
+    <div id="badges">
+      <img src="https://komarev.com/ghpvc/?username=l0rr&style=flat-square&color=blue" alt=""/>
+    </div>
+</div>
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ I love coffee (and probably need it too)
+- 🌱 I’m currently learning python and various pentesting things
+- 🏢 I'm working as a cyber security manager 
+- 👾 My Texteditor: Visual Studio Code 
