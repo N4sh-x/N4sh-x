@@ -3,13 +3,11 @@
 
 ```shell
 $ whoami
-+ Pentester | CTF Addict | Python Scripter | Coffee Enthusiast
+$ Pentester | CTF Addict | Python Scripter | Coffee Enthusiast
 $ _
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif" width="250"/>
-</div>
+<div align="center"> <img src="https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif" width="250"/> </div>
 
 ---
 
@@ -17,17 +15,13 @@ $ _
 
 Hey, I'm @L0rr, a passionate pentester who loves diving into CTF challenges and breaking things just to fix them again. I spend my time sharpening my hacking skills, scripting in Python, and staying caffeinated.
 
-- 🔍 **Current Focus**: Mastering the art of exploit development and automation with Python.
-- 💻 **Tools of the Trade**: Burp Suite, Nmap, Metasploit, and a bunch of custom scripts.
-- 🏆 **Favorite Pastime**: Competing in CTFs, where the real fun begins.
-
 ---
 
 ## What I Do 💼
 
 I’m all about:
 
-- **CTF Challenges**: Solving complex problems, reverse engineering binaries, and pwning boxes.
+- **CTF Challenges**: Always on the lookout for the next box to pwn.
 - **Scripting**: Automating tasks to make life (and hacking) easier.
 - **Learning**: Continuously leveling up my skills in cybersecurity and pentesting.
 
@@ -37,10 +31,10 @@ I’m all about:
 
 Here are a few things I’ve been hacking on:
 
+- **Pentesting Wiki:** Documenting everything I learn in my personal pentesting wiki.
 - **CTF Write-ups**: Documenting my journey through various CTF challenges.
-- **Custom Exploits**: Writing my own exploits for fun and learning.
-- **Security Tools**: Building small tools to assist in penetration testing.
-
+- **Custom Exploits**: Building and testing my own tools.
+ 
 ---
 
 ## Let's Connect 🌐
