@@ -18,7 +18,7 @@ Hey, I'm @N4shX, a tech enthusiast passionate about coding, scripting, and solvi
 
 ## Projects 🚀
 
-Here are a few things I’ve been hacking on:
+Here are a few things I’ve been working on:
 
 - **Pentesting Wiki:** Documenting everything I learn in my personal pentesting wiki.
 - **Custom Exploits**: Building and testing my own tools.
