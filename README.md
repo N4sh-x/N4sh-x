@@ -1,10 +1,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-# Welcome to My Cyber Playground 🕵️‍♂️
+# Welcome to My Profile 🕵️‍♂️
 
 ```shell
 $ whoami
-$ Pentester | CTF Addict | Python Scripter | Coffee Enthusiast
+$ Tech Enthusiast | Pentester | CTF Addict | Coffee Enthusiast
 $ _
 ```
 
@@ -12,17 +12,7 @@ $ _
 
 ## About Me 🛠️
 
-Hey, I'm @L0rr, a passionate pentester who loves diving into CTF challenges and breaking things just to fix them again. I spend my time sharpening my hacking skills, scripting in Python, and staying caffeinated.
-
----
-
-## What I Do 💼
-
-I’m all about:
-
-- **CTF Challenges**: Always on the lookout for the next box to pwn.
-- **Scripting**: Automating tasks to make life (and hacking) easier.
-- **Learning**: Continuously leveling up my skills in cybersecurity and pentesting.
+Hey, I'm @N4shX, a tech enthusiast passionate about coding, scripting, and solving tech challenges. Always learning and exploring new technologies.
 
 ---
 
@@ -31,14 +21,9 @@ I’m all about:
 Here are a few things I’ve been hacking on:
 
 - **Pentesting Wiki:** Documenting everything I learn in my personal pentesting wiki.
-- **CTF Write-ups**: Documenting my journey through various CTF challenges.
 - **Custom Exploits**: Building and testing my own tools.
  
 ---
-
-## Let's Connect 🌐
-
-I'm always up for a chat with fellow hackers and security enthusiasts. Whether it’s about the latest CTFs, new exploits, or just tech in general, hit me up!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=N4sh-x&style=flat-square&color=brightgreen" alt="Profile Views"/>
