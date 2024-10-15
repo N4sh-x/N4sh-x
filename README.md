@@ -13,6 +13,8 @@ $ _
 ## About Me 🛠️
 
 Hey, I'm @N4shX, a tech enthusiast passionate about coding, scripting, and solving tech challenges. Always learning and exploring new technologies.
+My daily work involves everything from security tool implementation in both Linux and Windows environments.
+I'm also continuously honing my skills in Red Teaming and other hacking skills.
 
 ---
 
@@ -23,6 +25,35 @@ Here are a few things I’ve been working on:
 - **Pentesting Wiki:** Documenting everything I learn in my personal pentesting wiki.
 - **Custom Exploits**: Building and testing my own tools.
  
+---
+
+## My Toolbox 🧰
+
+- Nmap (Network scanning)
+- Metasploit (Exploitation framework)
+- Wireshark (Traffic analysis)
+- Hashcat (Password cracking)
+- Gobuster (Directory and subdomain brute-forcing)
+- Nikto (Web server vulnerability scanning)
+- GoPhish (Phishing simulations)
+- Aircrack-ng (Wireless network analysis)
+- WiFi Pineapple (Wireless penetration testing)
+- Cewl (Wordlist generation for brute-force attacks)
+- Trend Micro Vision One (Security event analysis, audits)
+- Qualys (Vulnerability management)
+
+---
+
+### Pentesting Focus Areas 💻
+
+- SMTP (Open relay testing, weak authentication)
+- FTP (Anonymous login, weak credentials)
+- DNS (Zone transfers, misconfigurations)
+- SMB (Vulnerable versions, insecure shares)
+- NFS (Misconfigured shares)
+- MongoDB (Default credentials, open instances)
+- Redis (Unauthorized access, insecure configurations)
+
 ---
 
 <div align="center">
