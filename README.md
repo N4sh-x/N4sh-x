@@ -44,7 +44,7 @@ Here are a few things I’ve been working on:
 
 ---
 
-### Pentesting Focus Areas 💻
+## Pentesting Focus Areas 💻
 
 - SMTP (Open relay testing, weak authentication)
 - FTP (Anonymous login, weak credentials)
