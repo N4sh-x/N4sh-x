@@ -8,59 +8,59 @@ $ Tech Enthusiast | Pentester | CTF Addict | Coffee Enthusiast
 $ _
 ```
 
+
 ---
 
 ## About Me 🛠️
 
-Hey, I'm @N4shX, a tech enthusiast passionate about coding, scripting, and solving tech challenges. Always learning and exploring new technologies.
-My daily work involves everything from security tool implementation in both Linux and Windows environments.
-I'm also continuously honing my skills in Red Teaming and other hacking skills.
+Hey, I'm @N4shX – always curious, always learning. Whether it's security research, scripting, or breaking things (ethically, of course 😉).
+I'm always exploring new challenges.
+I work with a variety of tools, from well-known pentesting frameworks to specialized security solutions used in enterprise environments.
 
 ---
 
-## Projects 🚀
+## What I’m Up To 🚀
 
 Here are a few things I’ve been working on:
 
-- **Pentesting Wiki:** Documenting everything I learn in my personal pentesting wiki.
-- **Custom Exploits**: Building and testing my own tools.
- 
+- Exploring Security – Whether it's networks, web apps, or misconfigurations, I'm always diving into something new.
+- Automating & Scripting – Writing scripts to streamline recon, exploit chaining, or just make life easier.
+- CTF & Challenges – Sharpening my skills through CTFs, wargames, and security labs.
+- Wiki & Documentation – Keeping track of everything I learn, from attack techniques to tool usage.  
+    👉 Check it out: 🔗 [N4shX's Security Wiki](n4shx.gitbook.io/wiki)
+
 ---
 
 ## My Toolbox 🧰
-
-- Nmap (Network scanning)
-- Metasploit (Exploitation framework)
-- Wireshark (Traffic analysis)
-- Hashcat (Password cracking)
-- Gobuster (Directory and subdomain brute-forcing)
-- Nikto (Web server vulnerability scanning)
-- GoPhish (Phishing simulations)
-- Aircrack-ng (Wireless network analysis)
-- WiFi Pineapple (Wireless penetration testing)
-- Cewl (Wordlist generation for brute-force attacks)
-- Trend Micro Vision One (Security event analysis, audits)
-- Qualys (Vulnerability management)
+I use a mix of tools depending on the target, context, and goal:
+- Recon & Enumeration – Nmap, Gobuster, Amass, Subfinder
+- Exploitation & Post-Exploitation – Metasploit, Impacket, Burp Suite, Responder
+- Traffic & Credential Analysis – Wireshark, Hashcat, Aircrack-ng
+- Enterprise Security & Threat Analysis – Trend Micro Vision One, Qualys, MS Defender (mainly in my daily work)
+- ...and whatever fits the job – Every scenario is different, so I use the right tool for the task.
 
 ---
 
-## Pentesting Focus Areas 💻
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N4sh-x&show_icons=true&locale=en&layout=compact&theme=radical" alt="N4sh-x's Most Used Languages"/>
+</p>
 
-- SMTP (Open relay testing, weak authentication)
-- FTP (Anonymous login, weak credentials)
-- DNS (Zone transfers, misconfigurations)
-- SMB (Vulnerable versions, insecure shares)
-- NFS (Misconfigured shares)
-- MongoDB (Default credentials, open instances)
-- Redis (Unauthorized access, insecure configurations)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N4sh-x&show_icons=true&locale=en&theme=radical" alt="N4sh-x's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N4sh-x&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=N4sh-x&style=flat-square&color=brightgreen" alt="Profile Views"/>
-  <br/>
-  <a href="https://github.com/N4sh-x" target="_blank"><img src="https://img.shields.io/badge/GitHub-N4sh--x-blue?style=flat-square&logo=github"></a>
+ <a href="https://github.com/N4sh-x" target="_blank"><img src="https://img.shields.io/badge/GitHub-N4sh--x-blue?style=flat-square&logo=github"></a><br>
+ <img src="https://komarev.com/ghpvc/?username=N4sh-x&style=flat-square&color=brightgreen" alt="Profile Views"/><br> 
 </div>
+
 <br/>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
