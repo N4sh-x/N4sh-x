@@ -23,35 +23,55 @@ I work with a variety of tools, from well-known pentesting frameworks to special
 
 Here are a few things I’ve been working on:
 
-- Exploring Security – Whether it's networks, web apps, or misconfigurations, I'm always diving into something new.
-- Automating & Scripting – Writing scripts to streamline recon, exploit chaining, or just make life easier.
-- CTF & Challenges – Sharpening my skills through CTFs, wargames, and security labs.
-- Wiki & Documentation – Keeping track of everything I learn, from attack techniques to tool usage.  
+- 🔍 **Exploring Security** – Networks, web apps, misconfigurations – always something new to break.  
+- 🛠️ **Automating & Scripting** – Creating tools to streamline recon, exploit chaining, and more.  
+- 🎯 **CTF & Challenges** – Always sharpening my skills in wargames and security labs.  
+- 📚 **Wiki & Documentation** – Tracking everything I learn about attack techniques & tools.  
     👉 Check it out: 🔗 [N4shX's Security Wiki](n4shx.gitbook.io/wiki)
 
 ---
-
 ## My Toolbox 🧰
-I use a mix of tools depending on the target, context, and goal:
-- Recon & Enumeration – Nmap, Gobuster, Amass, Subfinder
-- Exploitation & Post-Exploitation – Metasploit, Impacket, Burp Suite, Responder
-- Traffic & Credential Analysis – Wireshark, Hashcat, Aircrack-ng
-- Enterprise Security & Threat Analysis – Trend Micro Vision One, Qualys, MS Defender (mainly in my daily work)
-- ...and whatever fits the job – Every scenario is different, so I use the right tool for the task.
+
+I rely on a diverse set of tools, chosen based on the situation and objective. Here are some of the main categories:
+
+### 🔎 Recon & Enumeration  
+![Nmap](https://img.shields.io/badge/Nmap-%23008080?style=for-the-badge&logo=nmap&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-%23FFD700?style=for-the-badge)
+![Amass](https://img.shields.io/badge/Amass-%2300A4EF?style=for-the-badge)
+![Subfinder](https://img.shields.io/badge/Subfinder-%234CAF50?style=for-the-badge)
+
+### 🎯 Exploitation & Post-Exploitation  
+![Metasploit](https://img.shields.io/badge/Metasploit-%230040A4?style=for-the-badge)
+![Impacket](https://img.shields.io/badge/Impacket-%23FF4500?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-%23FF5733?style=for-the-badge)
+![Responder](https://img.shields.io/badge/Responder-%234CAF50?style=for-the-badge)
+
+### 🔐 Traffic & Credential Analysis  
+![Wireshark](https://img.shields.io/badge/Wireshark-%23008080?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-%23FF4500?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-%23008CBA?style=for-the-badge)
+
+### 🏢 Enterprise Security & Threat Analysis  
+![Trend Micro Vision One](https://img.shields.io/badge/Trend%20Micro%20Vision%20One-%23FF0000?style=for-the-badge)
+![Qualys](https://img.shields.io/badge/Qualys-%230000FF?style=for-the-badge)
+![MS Defender](https://img.shields.io/badge/MS%20Defender-%23008080?style=for-the-badge)
+
+This is just a selection – I use many other specialized tools depending on the target and scenario.
 
 ---
 
 ## 📊 **GitHub Stats**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N4sh-x&show_icons=true&locale=en&layout=compact&theme=radical" alt="N4sh-x's Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=N4sh-x&show_icons=true&theme=tokyonight" alt="N4sh-x's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N4sh-x&show_icons=true&locale=en&theme=radical" alt="N4sh-x's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=N4sh-x&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N4sh-x&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N4sh-x&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="N4sh-x's Most Used Languages"/>
 </p>
 
 ---
@@ -61,7 +81,8 @@ I use a mix of tools depending on the target, context, and goal:
  <img src="https://komarev.com/ghpvc/?username=N4sh-x&style=flat-square&color=brightgreen" alt="Profile Views"/><br> 
 </div>
 
-<br/>
+---
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
