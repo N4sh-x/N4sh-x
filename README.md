@@ -4,7 +4,7 @@
 
 ```shell
 $ whoami
-$ Tech Enthusiast | Pentester | CTF Addict | Coffee Enthusiast
+  Tech Enthusiast | Pentester | CTF Addict | Coffee Enthusiast
 $ _
 ```
 
